@@ -1,0 +1,6 @@
+I am using the ISAAC machines login node because every time I tried 
+ to ssh into Hydra or Tesla, it hung indefinitely. 
+Hopefully this won't be an issue, as this is still a school computer
+ and I made a good-faith effort to use Hydra/Tesla. 
+(My Part 1 was done on my personal computer.)
+
